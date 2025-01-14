@@ -1,6 +1,6 @@
 # React + Vite
 
-### npm run dev write in terminal to run website
+### 'npm run dev' write in terminal to run website
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

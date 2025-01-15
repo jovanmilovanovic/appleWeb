@@ -1,6 +1,6 @@
 {
   "name": "appleweb",
-  "homepage": "https://jovanmilovanovic.github.io/iPhone",
+  "homepage": "https://jovanmilovanovic.github.io/appWeb/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",

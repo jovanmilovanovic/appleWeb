@@ -8,6 +8,7 @@ export default defineConfig({
     org: "jsm-ww",
     project: "javascript-react"
   })],
+  base: "/iPhone",
 
   build: {
     sourcemap: true

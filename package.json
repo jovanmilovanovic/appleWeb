@@ -1,5 +1,6 @@
 {
   "name": "appleweb",
+  "homepage": "https://jovanmilovanovic.github.io/iPhone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +16,7 @@
     "@react-three/fiber": "^8.17.12",
     "@sentry/react": "^8.48.0",
     "@sentry/vite-plugin": "^2.23.0",
+    "gh-pages": "^6.3.0",
     "gsap": "^3.12.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
